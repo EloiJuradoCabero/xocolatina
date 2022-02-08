@@ -1,0 +1,9 @@
+.rajola {
+    background-color: sienna;
+    border-style: solid;
+    border-left-color: saddlebrown;
+    border-bottom-color: saddlebrown;
+    border-right-color: peru;
+    border-top-color: peru;
+    border-width:10px;
+}
